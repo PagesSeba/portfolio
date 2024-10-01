@@ -16,13 +16,13 @@ function Projects() {
           <Col>
             <h1 className="green">E-Commerce</h1>
             <video></video>
-            <h6 className="white">Made using <strong className="green">React.js, Node.js </strong> and <strong className="green">Firebase</strong>.</h6>
+            <h6 className="white">Made using <strong className="green">React.js, Node.js, Firebase </strong> and <strong className="green">MercadoPago API</strong>.</h6>
             <a src="#"><p className="white">Live Demo</p></a>
           </Col>
           <Col>
             <h1 className="green">College Managment</h1>
             <video></video>
-            <h6 className="white">Made using <strong className="green">PHP, SQL, HTML </strong> and <strong className="green">CSS</strong>.</h6>
+            <h6 className="white">Made using <strong className="green">PHP, SQL, HTML, CSS </strong> and <strong className="green">Google Calendar API</strong>.</h6>
             <a src="#"><p className="white">Live Demo</p></a>
           </Col>
         </Row>
